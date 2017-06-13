@@ -1,0 +1,42 @@
+[
+	{
+		"email": "jack@velo-labs.com",
+		"code": "xy",
+		"shippingField": "1498 banana road",
+		"postalField": "83423",
+		"countryField": "USA",
+		"cityStateField": "Okra"
+	},
+	{
+		"email": "steve@velo-labs.com",
+		"code": "abc",
+		"shippingField": "1839 coconut road",
+		"postalField": "93243",
+		"countryField": "KN",
+		"cityStateField": "Ooki"
+	},
+	{
+		"email": "andre@velo-labs.com",
+		"code": "23",
+		"shippingField": "",
+		"postalField": "",
+		"countryField": "",
+		"cityStateField": ""
+	},
+	{
+		"email": "simon@velo-labs.com",
+		"code": "434",
+		"shippingField": "",
+		"postalField": "",
+		"countryField": "FN",
+		"cityStateField": ""
+	},
+	{
+		"email": "jared@velo-labs.com",
+		"code": "asdf",
+		"shippingField": "1550 Opi Avenue",
+		"postalField": "93313",
+		"countryField": "MX",
+		"cityStateField": "Quexicotl"
+	}
+]

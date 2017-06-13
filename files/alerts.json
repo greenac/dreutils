@@ -1,0 +1,74 @@
+[
+  {
+    "title": "New bikes added to fleet",
+    "detail": "25 bikes added to Mighty Mouse that have not been onboarded.",
+    "action": "/some/url/that/will/take/the/user/to/the/correct/page",
+    "type": "bike"
+  },
+  {
+    "title": "Crash Alert",
+    "detail": "Ellipse Monkey Business 35 has had a crash at 20:32 on Park Ave and Bay St",
+    "action": "/some/url/that/will/take/the/user/to/the/correct/page",
+    "type": "crash"
+  },
+  {
+    "title": "Hub Full",
+    "detail": "Hub Flat Badger is at full capacity.",
+    "action": "/some/url/that/will/take/the/user/to/the/correct/page",
+    "type": "supply"
+  },
+  {
+    "title": "Theft Alert",
+    "detail": "Bike Shark Dodger 67 has had a theft attempt at 8:08 on Main St and 16th St",
+    "action": "/some/url/that/will/take/the/user/to/the/correct/page",
+    "type": "theft"
+  },
+  {
+    "title": "Damage Report",
+    "detail": "User Kyle Parker has reported the bike Owl Bandit 6 has a broken seat.",
+    "action": "/some/url/that/will/take/the/user/to/the/correct/page",
+    "type": "bike"
+  },
+  {
+    "title": "Bike Returned Outside Geofence",
+    "detail": "Bike Little Turtle 76 returned 5.7 miles outside geofence boundary",
+    "action": "/some/url/that/will/take/the/user/to/the/correct/page",
+    "type": "bike"
+  },
+  {
+    "title": "Bike Returned Outside Geofence",
+    "detail": "Bike Little Turtle 76 returned 5.7 miles outside geofence boundary",
+    "action": "/some/url/that/will/take/the/user/to/the/correct/page",
+    "type": "bike"
+  },
+  {
+    "title": "Crash Alert",
+    "detail": "Bike Feral Beaver 15 has had a crash at 13:29 on Silverado Dr and Smith Lane",
+    "action": "/some/url/that/will/take/the/user/to/the/correct/page",
+    "type": "crash"
+  },
+  {
+    "title": "Bike Supply Low",
+    "detail": "Only 4 bikes left at Geological Sciences Building hub",
+    "action": "/some/url/that/will/take/the/user/to/the/correct/page",
+    "type": "supply"
+  },
+  {
+    "title": "Returned to non designated hub",
+    "detail": "Bike Simple Wild Cat 57 not returned to a designated hub",
+    "action": "/some/url/that/will/take/the/user/to/the/correct/page",
+    "type": "supply"
+  },
+  {
+    "title": "Theft Alert",
+    "detail": "Bike Speedy Banana Slug 78 has had a theft attempt at 16:31 on Yosemite Ave and Parsons St",
+    "action": "/some/url/that/will/take/the/user/to/the/correct/page",
+    "type": "theft"
+  },
+  {
+    "title": "Bike Returned Outside Geofence",
+    "detail": "Bike Golden Bear 9 returned 2.3 miles outside geofence boundary",
+    "action": "/some/url/that/will/take/the/user/to/the/correct/page",
+    "type": "bike"
+  }
+]

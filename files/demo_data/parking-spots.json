@@ -1,0 +1,29 @@
+[
+  {
+    "name" : "Market Lot",
+    "description" : "The Mid-Market neighborhood is in the north eastern corner of SoMa. Most notably, Twitter moved into the neighborhood during its early days. Other major companies found within Mid-Market includes Uber, Dolby and Square.",
+    "pic" : "https://s3-us-west-1.amazonaws.com/lattis.parking-spot.image.upload/marker_lot.jpg"
+  },
+  {
+    "name" : "14 Colton St",
+    "description" : "The huge parking lot next to the cruise ship terminal doesn't seem to fill up much and the prices are reasonable.",
+    "pic" : "https://s3-us-west-1.amazonaws.com/lattis.parking-spot.image.upload/14_Colton_St.jpg"
+
+  },
+  {
+    "name" : "Opera Plaza",
+    "description" : "This facility offers only self-parking, no valet service.",
+    "pic" : "https://s3-us-west-1.amazonaws.com/lattis.parking-spot.image.upload/Opera_Plaza.jpg"
+
+  },
+  {
+    "name" : "530 Turk St",
+    "desciption" : "Parking is available 6AM to 7PM, Monday to Friday. This facility offers only self-parking, no valet service. There is no overnight parking nor weekend/holiday parking available.",
+    "pic" : "https://s3-us-west-1.amazonaws.com/lattis.parking-spot.image.upload/530_Turk_St.jpg"
+  },
+  {
+    "name" : "7th & Pacific Lot",
+    "description" : "Parking is available 24 hours daily, 7 days a week including holidays to the general public. Outdoor lot, self-park (attended).",
+    "pic" : "https://s3-us-west-1.amazonaws.com/lattis.parking-spot.image.upload/7th_Pacific_Lot.jpg"
+  }
+]

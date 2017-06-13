@@ -1,0 +1,56 @@
+[
+  {
+    "city": "Bonny Dune",
+    "address1": "501 Fifth St.",
+    "state": "CA",
+    "postal_code": "95301",
+    "country": "US",
+    "type": "operator",
+    "type_id": 1
+  },
+  {
+    "city": "San Francisco",
+    "address1": "23091 Manchester Street",
+    "state": "CA",
+    "postal_code": "94117",
+    "country": "US",
+    "type": "operator",
+    "type_id": 2
+  },
+  {
+    "city": "San Francisco",
+    "address1": "9056 Utah Street",
+    "state": "CA",
+    "postal_code": "94117",
+    "country": "US",
+    "type": "operator",
+    "type_id": 3
+  },
+  {
+    "city": "Danville",
+    "address1": "32987 3rd Street",
+    "state": "CA",
+    "postal_code": "95489",
+    "country": "US",
+    "type": "operator",
+    "type_id": 4
+  },
+  {
+    "city": "Davis",
+    "address1": "4675 University Ave.",
+    "state": "CA",
+    "postal_code": "95489",
+    "country": "US",
+    "type": "operator",
+    "type_id": 5
+  },
+  {
+    "city": "Daly City",
+    "address1": "0087 Foggy Blvd.",
+    "state": "CA",
+    "postal_code": "95989",
+    "country": "US",
+    "type": "operator",
+    "type_id": 6
+  }
+]

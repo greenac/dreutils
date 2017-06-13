@@ -1,0 +1,119 @@
+[
+  {
+    "city": "San Francisco",
+    "address1": "7864 Manchester Street",
+    "state": "CA",
+    "postal_code": "98765",
+    "country": "US",
+    "type": "customer",
+    "type_id": 1
+  },
+  {
+    "city": "San Francisco",
+    "address1": "7864 Utah Street",
+    "state": "CA",
+    "postal_code": "98765",
+    "country": "US",
+    "type": "customer",
+    "type_id": 2
+  },
+  {
+    "city": "London",
+    "address1": "15 Kimberley Rd",
+    "state": "JS",
+    "postal_code": "SW9",
+    "country": "UK",
+    "type": "customer",
+    "type_id": 3
+  },
+  {
+    "city": "London",
+    "address1": "15 Kimberley Rd",
+    "state": "JS",
+    "postal_code": "SW9",
+    "country": "UK",
+    "type": "customer",
+    "type_id": 4
+  },
+  {
+    "city": "Paris",
+    "address1": "3 Place Alphonse Laveran",
+    "state": "Île-de-France",
+    "postal_code": "75019",
+    "country": "FR",
+    "type": "customer",
+    "type_id": 5
+  },
+  {
+    "city": "Tokyo",
+    "address1": "2 Chome-36-6 Wada",
+    "state": "Suginami-ku",
+    "postal_code": "166-0012",
+    "country": "UK",
+    "type": "customer",
+    "type_id": 6
+  },
+  {
+    "city": "Shanghai Shi",
+    "address1": "36 Cai Jian Lu",
+    "state": "Shanghai",
+    "postal_code": "21",
+    "country": "CN",
+    "type": "customer",
+    "type_id": 7
+  },
+  {
+    "city": "Vancouver",
+    "address1": "29087 Second Ave.",
+    "state": "BC",
+    "postal_code": "V5Z 0A7",
+    "country": "CA",
+    "type": "customer",
+    "type_id": 8
+  },
+  {
+    "city": "New York",
+    "address1": "34 West 118 St.",
+    "state": "NY",
+    "postal_code": "10027",
+    "country": "US",
+    "type": "customer",
+    "type_id": 9
+  },
+  {
+    "city": "New York",
+    "address1": "34 West 118 St.",
+    "state": "NY",
+    "postal_code": "10027",
+    "country": "US",
+    "type": "customer",
+    "type_id": 10
+  },
+  {
+    "city": "New York",
+    "address1": "34 West 118 St.",
+    "state": "NY",
+    "postal_code": "10027",
+    "country": "US",
+    "type": "customer",
+    "type_id": 11
+  },
+  {
+    "city": "Los Angeles",
+    "address1": "31 St. James Ave",
+    "state": "CA",
+    "postal_code": "90020",
+    "country": "US",
+    "type": "customer",
+    "type_id": 12
+  },
+  {
+    "city": "Los Angeles",
+    "address1": "31 St. James Ave",
+    "state": "CA",
+    "postal_code": "90020",
+    "country": "US",
+    "type": "customer",
+    "type_id": 13
+  }
+]

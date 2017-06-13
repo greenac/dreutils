@@ -1,0 +1,17 @@
+[
+  {
+   "maintenance_category" : "faulty_gears"
+  },
+  {
+    "maintenance_category" : "wheel_damage"
+  },
+  {
+    "maintenance_category" : "handle_bar_damage"
+  },
+  {
+    "maintenance_category" : "standard_service"
+  },
+  {
+    "maintenance_category" : "faulty_part_and_such_part"
+  }
+]

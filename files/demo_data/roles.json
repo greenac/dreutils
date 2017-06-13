@@ -1,0 +1,13 @@
+[{
+  "name": "skylock",
+  "default": 1,
+  "permissions": 7
+}, {
+  "name": "Administrator",
+  "default": 0,
+  "permissions": 255
+},{
+  "name": "Maintenance",
+  "default": 0,
+  "permissions": 1
+}]

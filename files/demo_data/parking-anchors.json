@@ -1,0 +1,74 @@
+[
+  {
+    "city": "san_francisco",
+    "center": {
+      "latitude": 37.756277,
+      "longitude": -122.446347
+    },
+    "maxRadius": 3700.0
+  },
+  {
+    "city": "london",
+    "center": {
+      "latitude": 51.513912,
+      "longitude": -0.142808
+    },
+    "maxRadius": 40000.0
+  },
+  {
+    "city": "paris",
+    "center": {
+      "latitude": 48.855662,
+      "longitude": 2.353066
+    },
+    "maxRadius": 16000.0
+  },
+  {
+    "city": "tokyo",
+    "center": {
+      "latitude": 35.741036,
+      "longitude": 139.720085
+    },
+    "maxRadius": 8000.0
+  },
+  {
+    "city": "shanghai",
+    "center": {
+      "latitude": 31.095144,
+      "longitude": 121.351258
+    },
+    "maxRadius": 24000.0
+  },
+  {
+    "city": "vancouver",
+    "center": {
+      "latitude": 49.243998,
+      "longitude": -123.114908
+    },
+    "maxRadius": 3200.0
+  },
+  {
+    "city": "brooklyn",
+    "center": {
+      "latitude": 40.672859,
+      "longitude": -73.917244
+    },
+    "maxRadius": 3200.0
+  },
+  {
+    "city": "los_angeles",
+    "center": {
+      "latitude": 34.054997,
+      "longitude": -118.313169
+    },
+    "maxRadius": 11000.0
+  },
+  {
+    "city": "chennai",
+    "center": {
+      "latitude": 80.241585,
+      "longitude": 13.0681845
+    },
+    "maxRadius": 11000.0
+  }
+]
